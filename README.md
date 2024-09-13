@@ -26,10 +26,11 @@ https://boxes.hackerspace-bamberg.de/RoundedBox?FingerJoint_style=rectangular&Fi
 
 `burn=0.2`is the kerf I mentioned above
 
-I downloaded the design as an svg and imported it into Illustrator where I added the holes for the speakers, the third layer and holes for supporting the speakers and the slot for the accessing the usb ports. There a some spacer holes and spacers in tghe design that I haven't used so far.  
+I downloaded the design as an svg and imported it into Illustrator where I added the holes for the speakers, the third layer and holes for supporting the speakers and the slot for the accessing the usb ports. There a some spacer holes and spacers in the design that I haven't used so far.  
 
 ```
-You might want to add holes in the backplate for some nuts and bolts to secure the esp32 audio kit. I'm using foamtape at the moment because I might add some other features first.
+You might want to add holes in the backplate for some nuts and bolts to secure the esp32 audio kit.  
+I'm using foamtape at the moment because I might add some other features first.
 ```
 
 ![insde view](/openview_esp32audiokit_enclosure.jpg)
