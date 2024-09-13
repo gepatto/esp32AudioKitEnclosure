@@ -15,7 +15,7 @@ You might have to convert these for your laser setup.
 
 The fingerjoints are based on the thickness of the material, in this case 3mm MDF.  
 
-The design is based on the 'Roundexbox' setting in the opensource **boxes.py**   
+The design is based on the 'Roundedbox' setting in the opensource **boxes.py**   
 https://github.com/florianfesti/boxes  
 
 I have used the online version at    
